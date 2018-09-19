@@ -1,3 +1,3 @@
 # javascript
 ## tutorial
-this is a file about javascript array *italic*
+ *italic this is a file about javascript array*
